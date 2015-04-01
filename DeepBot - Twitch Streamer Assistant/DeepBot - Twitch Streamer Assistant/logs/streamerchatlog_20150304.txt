@@ -1,0 +1,12 @@
+[04 Mar 19:44:32] <djdouge> hey everyone I'm still not able to put any music in my music list.  Was there a fix for this?  Everyone seems to be able to but me for some reason 
+[04 Mar 19:44:54] <repentgamingtv> Do you have points to request music?
+[04 Mar 19:47:11] <gam3k3y> Repent I semi fixed the hosting issue
+[04 Mar 19:47:56] <gam3k3y> If Deepbot keeps seeing Streams as offline it'll switch just have the waiting time bumped up from 2mins to 30mins instead
+[04 Mar 19:50:42] <repentgamingtv> :o
+[04 Mar 20:02:15] <djdouge> im back 
+[04 Mar 20:02:19] <djdouge> yes 
+[04 Mar 20:02:24] <djdouge> I have points to request music 
+[04 Mar 20:02:33] <djdouge> and a max of 50 songs 
+[04 Mar 20:02:44] <djdouge> I even cleared the playlist 
+[04 Mar 20:02:52] <djdouge> to add songs but nothing comes up for me 
+[04 Mar 20:30:54] <posinik> is there a limite to how long a music number can be ? i have been trying to add a few that are over 16 mins long and it seems like it just wont add them to the playlist

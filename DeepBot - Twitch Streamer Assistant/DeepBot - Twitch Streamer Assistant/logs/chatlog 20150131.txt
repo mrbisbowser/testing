@@ -1,0 +1,8 @@
+[31 Jan 16:05:06] The server instance WebSocketServer-63993496 has been started!
+[31 Jan 16:11:18] <superdotaplaya> : hi
+[31 Jan 16:12:37] <superdotaplayatv> : Poll has been started for: lol.
+[31 Jan 16:12:37] <superdotaplayatv> : Poll options are: (1) 1, (2) 2, (3) 3
+[31 Jan 16:12:37] <superdotaplayatv> : To register your votes, type !vote [vote option]. (e.g. !vote 1 for voting on option 1)
+[31 Jan 16:12:38] <superdotaplayatv> : I am looking forward to doing giveaways in the future, but right now I have nothing to giveway, when I reach donation milestones I will do some giveways and case openings!!
+[31 Jan 16:14:04] <superdotaplaya> : !vote 1
+[31 Jan 16:14:33] <superdotaplayatv> : Poll has been cancelled. All votes refunded.

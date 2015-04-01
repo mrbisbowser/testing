@@ -1,0 +1,12 @@
+02 Feb 19:14:56,431 - 0.6.1.0: Error - Unable to log stream info: Unable to connect to the remote server
+   at System.Net.WebClient.UploadValues(Uri address, String method, NameValueCollection data)
+   at System.Net.WebClient.UploadValues(String address, NameValueCollection data)
+   at DeepBot.DeepBotAPI.DeepBotStreamInfo.<>c__DisplayClass1.<streamInfo>b__0(Object param0)
+02 Feb 19:20:05,248 - 0.6.1.0: Error - Unable to log stream info: Unable to connect to the remote server
+   at System.Net.WebClient.UploadValues(Uri address, String method, NameValueCollection data)
+   at System.Net.WebClient.UploadValues(String address, NameValueCollection data)
+   at DeepBot.DeepBotAPI.DeepBotStreamInfo.<>c__DisplayClass1.<streamInfo>b__0(Object param0)
+02 Feb 19:25:30,384 - 0.6.1.0: Error - Unable to log stream info: The underlying connection was closed: An unexpected error occurred on a send.
+   at System.Net.WebClient.UploadValues(Uri address, String method, NameValueCollection data)
+   at System.Net.WebClient.UploadValues(String address, NameValueCollection data)
+   at DeepBot.DeepBotAPI.DeepBotStreamInfo.<>c__DisplayClass1.<streamInfo>b__0(Object param0)

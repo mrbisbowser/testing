@@ -1,0 +1,172 @@
+[31 Mar 17:11:44] <listedonebay> How does song request work
+[31 Mar 17:15:43] <albi1985> !requestsong then the youtube link
+[31 Mar 17:15:58] <albi1985> http://deepbot.deep.sg/wiki/Bot+Commands&structure=Index&page_ref_id=6
+[31 Mar 17:16:04] <albi1985> see here Bot commands
+[31 Mar 17:54:25] <benj1248>  hi
+[31 Mar 17:54:30] <repentgamingtv> Hi
+[31 Mar 17:54:33] <mercury3rd> Hi
+[31 Mar 17:54:36] <benj1248> Anyone know a way to transfer the data on one comp to another
+[31 Mar 17:54:40] <benj1248> User hours, points, etc
+[31 Mar 17:54:51] <benj1248> for DeepBot
+[31 Mar 17:55:09] <repentgamingtv> The four files you need are: users.bin, usersconfig.bin, Deepbot.s3, and chanmsgconfig.bin
+[31 Mar 17:55:19] <repentgamingtv> Thye can found in your deepbot folder
+[31 Mar 17:55:21] <benj1248> and just copy and replace on my other comp?
+[31 Mar 17:55:26] <repentgamingtv> Ya
+[31 Mar 17:55:30] <benj1248> thank you sir
+[31 Mar 17:55:33] <benj1248> or madam
+[31 Mar 17:55:55] <mercury3rd> hehe repent do you have this on copy@paste or are you superfast at typing? ^^
+[31 Mar 17:55:55] <superdotaplaya> repent any ideas of what will be coming in the interaction tab?
+[31 Mar 17:56:04] <repentgamingtv> No merc. Just that fast
+[31 Mar 17:56:24] <repentgamingtv> And it is sir fyi :o
+[31 Mar 17:56:25] <superdotaplaya> its said under developement for a few months now lol
+[31 Mar 17:57:14] <repentgamingtv> @superdotaplaya Future things, it will be the same in the next update. But a lot of cool features coming in the next update :D
+[31 Mar 17:57:33] <superdotaplaya> when will that be? sorry if im asking too much
+[31 Mar 17:57:35] <benj1248> Cooler minigames?
+[31 Mar 17:57:42] <repentgamingtv> Hopefully this coming weekend
+[31 Mar 17:57:48] <superdotaplaya> really?
+[31 Mar 17:58:16] <repentgamingtv> Well no new mini-games, but eventually there will be. This is the biggest update for deepbot since it started.
+[31 Mar 17:58:45] <repentgamingtv> Yes really, that is what I last heard from experts himself :3
+[31 Mar 17:58:48] <superdotaplaya> awesome is it all for vips or no?
+[31 Mar 17:59:58] <repentgamingtv> The only major thing is the command system being redone, then just some other side features/settings to play around with that will add quite a bit of customization. Although, I think only a few features are vip only
+[31 Mar 18:00:16] <repentgamingtv> Not exactly which feature/settings
+[31 Mar 18:00:26] <superdotaplaya> ok thank you!
+[31 Mar 18:03:14] <h3rsh3yb3ar> hi
+[31 Mar 18:05:04] <repentgamingtv> Hi
+[31 Mar 18:56:10] <minecraftthecrafters> Asked this before, but forgot where I found it last time. Where can i find the list of chat ranks?
+[31 Mar 18:56:58] <mercury3rd> in your deepbot folder > ranks.txt
+[31 Mar 18:58:07] <minecraftthecrafters> With the hours too
+[31 Mar 18:58:13] <minecraftthecrafters> There was a fourm post somewhere that had the list
+[31 Mar 18:58:18] <minecraftthecrafters> But I can't find it now
+[31 Mar 18:58:35] <mercury3rd> http://deepbot.deep.sg/forums/index.php?topic=16.0
+[31 Mar 19:03:09] <repentgamingtv> Ya, and editing the ranks, is a vip feature, well to use custom ranks. :P
+[31 Mar 19:16:18] <opt1kal> Wondering, is there a way to clear chat so what was said doesn't show on stream?
+[31 Mar 19:19:44] <wolfie713> You could always try restarting DeepBot :X
+[31 Mar 20:00:38] <rapidhost> Can the UpTime command please be added?
+[31 Mar 20:02:21] <repentgamingtv> You can add the command
+[31 Mar 20:02:44] <repentgamingtv> Example: Command: !uptime Message of Command: Current uptime: @uptime@ or @uptime2@
+[31 Mar 20:03:00] <repentgamingtv> http://deepbot.deep.sg/wiki/Custom+Commands&structure=Index&page_ref_id=16
+[31 Mar 20:04:07] <listedonebay> o, hey Mercuery :p
+[31 Mar 21:20:41] <rapidhost> When is the new update planned to come out? @+repentgamingtv
+[31 Mar 21:21:38] <repentgamingtv> Hopefully this coming weekend
+[31 Mar 21:29:59] <djdouge> So guys im still having a real issue with deepbot.  Everyday I have to uninstall deepbot and reinstall deepbot to add songs to my music list.  Does anyone know of this issue or how to fix it?  My viewers can put music in I just cannot do it. 
+[31 Mar 21:43:28] <vgzilix> hey repent
+[31 Mar 21:43:44] <vgzilix> can you check to see if you approved my buddy for deep bot, he donated and stuff
+[31 Mar 21:43:56] <repentgamingtv> Sure name?
+[31 Mar 21:44:31] <vgzilix> haggardestiny 
+[31 Mar 21:44:47] <vgzilix> he donated 10 currently
+[31 Mar 21:48:30] <repentgamingtv> Did he do an application on forums?
+[31 Mar 21:49:10] <vgzilix> yes
+[31 Mar 21:49:22] <repentgamingtv> What is his forum name?
+[31 Mar 21:49:39] <vgzilix> destinedfordeath
+[31 Mar 21:49:45] <rapidhost> Can it be added if someone does not have enough points for something it will tell them that they do not have them
+[31 Mar 21:50:05] <vgzilix> seems like you approved him :)
+[31 Mar 21:50:21] <repentgamingtv> Ya he has been accepted
+[31 Mar 21:50:27] <vgzilix> awesome thanks!
+[31 Mar 21:50:31] <vgzilix> appreciate it <3
+[31 Mar 21:51:58] <repentgamingtv> He should have a pm in his inbox, if not just let me know.
+[31 Mar 21:52:30] <jaywreckem> Sup guys
+[31 Mar 21:52:51] <verystyler> Why hello there
+[31 Mar 21:53:26] <jaywreckem> Whats going on people :D
+[31 Mar 21:54:19] <verystyler> Not much, working on some api shizzle :3
+[31 Mar 21:55:53] <rapidhost> Anyone?
+[31 Mar 21:56:04] <dexskittles> what?
+[31 Mar 21:56:28] <rapidhost> Can it be added if someone does not have enough points for something it will tell them that they do not have them
+[31 Mar 21:58:55] <verystyler> There's not a way at this point :)
+[31 Mar 22:03:01] <djdouge> its just crazy 
+[31 Mar 22:03:20] <djdouge> I cannot put songs in my own playlist no matter what I do unless I completely uninstall deepbot 
+[31 Mar 22:03:25] <djdouge> and then re-install it clean 
+[31 Mar 22:06:20] <repentgamingtv> Running deepbot as admin?
+[31 Mar 22:06:30] <rapidhost> More spam occures because that command is not avalible :/
+[31 Mar 22:06:49] <rapidhost> and I ran the program as admin and followers still do not update
+[31 Mar 22:07:32] <repentgamingtv> What command?
+[31 Mar 22:13:02] <rapidhost> A command to tell people if they don't have enough points, For instance if someone comes to the channel and it cost for song request and they have not enough it don't tell them anything so they keep spamming and then asking why it don't work etc etc
+[31 Mar 22:37:39] <netotigr> hello
+[31 Mar 22:37:44] <repentgamingtv> Hi
+[31 Mar 22:37:47] <netotigr> is there anyway to only give points to ppl that are active in chat?
+[31 Mar 22:38:03] <repentgamingtv> Config>Gear (Upper Right Corner)>Misc Settings
+[31 Mar 22:38:12] <netotigr> also can you guys plz add an option to declare winner of a bet by the name and not just option 1 or 2 ? i'm actuallly going to use another bot while using deepbot just for bets because of this
+[31 Mar 22:38:17] <repentgamingtv> Point options not misc settings
+[31 Mar 22:38:34] <netotigr> example
+[31 Mar 22:38:40] <netotigr> !betting winoptionUSA
+[31 Mar 22:38:44] <netotigr> instead of
+[31 Mar 22:38:49] <netotigr> !betting winoption1
+[31 Mar 22:39:08] <netotigr> I have fucked up soo many bets because i declare the wrong winner 1 2 or 3
+[31 Mar 22:39:13] <netotigr> then I can't even revert that mess up
+[31 Mar 22:39:24] <netotigr> while with the old bot that I used I could type !winner NAME
+[31 Mar 22:44:32] <mercury3rd> why you don't just use the botinterface then, and click on the winoption
+[31 Mar 22:55:11] <netotigr> the program
+[31 Mar 22:55:14] <netotigr> is not running on my pc
+[31 Mar 22:55:17] <netotigr> it's on another PC
+[31 Mar 22:55:28] <netotigr> I haev to go to the other PC all the time, this also means my mods can't help with bets?
+[31 Mar 22:55:41] <netotigr> why is it hard to just add the option !win NAME instead of option 1 2 3 :(
+[31 Mar 22:55:54] <emrerocky> netotigr, Have you ever looked into teamviewer?
+[31 Mar 22:56:10] <emrerocky> would allow you to interface with your other pc without having to go to it, once it's setup
+[31 Mar 23:10:06] <rapidhost> Still no one answered me...
+[31 Mar 23:10:11] <rapidhost> Even though I posted a long thing about it
+[31 Mar 23:10:41] <repentgamingtv> It was answered :/
+[31 Mar 23:10:51] <repentgamingtv> <+verystyler> : There's not a way at this point :)
+[31 Mar 23:11:03] <rapidhost> No I asked if it was going to be added and you asked what and I said it then you didn't reply back
+[31 Mar 23:11:14] <gaming_with_goove> Hey guys how is everyone doing?
+[31 Mar 23:12:07] <repentgamingtv> Maybe eventually.
+[31 Mar 23:15:39] <gaming_with_goove> DID you guys remove the day of follow in the user database?
+[31 Mar 23:16:03] <emrerocky> nope, I still have it
+[31 Mar 23:18:21] <gaming_with_goove> Join date now?
+[31 Mar 23:18:48] <mercury3rd> there is a join date and a follow date
+[31 Mar 23:19:28] <gaming_with_goove> Right on.  Mine is not lol maybe ill restart it
+[31 Mar 23:19:35] <gaming_with_goove> much love thou
+[31 Mar 23:23:07] <gaming_with_goove> For some reason it just keeps hiding that tab
+[31 Mar 23:25:10] <repentgamingtv> That is a vip feature gaming_with_goove
+[31 Mar 23:25:47] <gaming_with_goove> my shit ran out! lol Time for the monthly boot up
+[31 Mar 23:25:49] <gaming_with_goove> brb :)
+[31 Mar 23:26:28] <superdotaplaya> is it possible to run deepbot on a server where i can upload it to and run it from there instead of my computer?
+[31 Mar 23:26:33] <superdotaplaya> and if so any ideas how?
+[31 Mar 23:28:57] <superdotaplaya> anybody here?
+[31 Mar 23:30:24] <netotigr> I want to open a queue but it gives me the option to only allow ppl with a certain amount of points, I wish i could choose hours instead of points, is that possible?
+[31 Mar 23:30:34] <gaming_with_goove> but its not that bad.  I mean, under the database it jumps there "Rank" by hours
+[31 Mar 23:30:46] <gaming_with_goove> I actually have no clue -_-
+[31 Mar 23:30:59] <netotigr> lol, I thought you where the progammer
+[31 Mar 23:31:03] <gaming_with_goove> no no
+[31 Mar 23:31:20] <gaming_with_goove> Mods or Admins and Devs have the "+" before their name
+[31 Mar 23:31:26] <emrerocky> expertsonline is the developer
+[31 Mar 23:31:30] <gaming_with_goove> ^
+[31 Mar 23:31:34] <emrerocky> he has an @ in front of his name
+[31 Mar 23:31:53] <gaming_with_goove> I just dont mind helping people when im in the streamer chat from time to time.  I like to pop in and out and see whats going on <3
+[31 Mar 23:32:12] <superdotaplaya> emrocky any ideas with my question?
+[31 Mar 23:33:34] <emrerocky> well, users get points based on how long they are in the chat
+[31 Mar 23:33:54] <emrerocky> currently you cannot give VIP to people with a certain number of hours
+[31 Mar 23:34:04] <repentgamingtv> In the next update, this is what you will be able to do with commands: http://puu.sh/gXdAn/62fd6c1956.png
+[31 Mar 23:35:56] <superdotaplaya> i need help!
+[31 Mar 23:36:16] <repentgamingtv> ?
+[31 Mar 23:36:34] <superdotaplaya> is it possible to run deepbot on a server where i can upload it to and run it from there instead of my computer?
+[31 Mar 23:36:55] <repentgamingtv> Ya
+[31 Mar 23:37:02] <superdotaplaya> how?
+[31 Mar 23:37:04] <repentgamingtv> As long as it is windows
+[31 Mar 23:37:09] <superdotaplaya> yep it is
+[31 Mar 23:37:20] <repentgamingtv> Idk how. D:
+[31 Mar 23:37:27] <superdotaplaya> oh :(
+[31 Mar 23:37:41] <superdotaplaya> the bot seeems to slow the pc down quite a bit
+[31 Mar 23:37:53] <superdotaplaya> any ideas on how to make it run fatser?
+[31 Mar 23:37:53] <emrerocky> I think windows servers are like the os, just drop in the files and run the exe
+[31 Mar 23:38:02] <emrerocky> but i haven't ever worked with them
+[31 Mar 23:38:06] <superdotaplaya> link to this?
+[31 Mar 23:38:17] <superdotaplaya> are the servers free?
+[31 Mar 23:38:36] <emrerocky> no, they are usually $15+/month
+[31 Mar 23:39:41] <superdotaplaya> oh...
+[31 Mar 23:40:20] <superdotaplaya> any ideas on how to make the bot run smoother and not slow dow the pc its on?
+[31 Mar 23:40:47] <emrerocky> I don't have any performance issues with it
+[31 Mar 23:41:30] <emrerocky> depends on the hardware of the system it's on
+[31 Mar 23:41:38] <superdotaplaya> ok, my computer is only 4 gbs of ram
+[31 Mar 23:41:53] <repentgamingtv> Probably upgrade the ram if you can
+[31 Mar 23:42:48] <superdotaplaya> i cant...
+[31 Mar 23:43:08] <repentgamingtv> D:
+[31 Mar 23:43:11] <skipptekk> hey guys, got a question for yea, a Twitch user wants to change his bot. does he need to resubmit the forum or can he come here and PM someone about it?
+[31 Mar 23:43:16] <emrerocky> is your os 32bit of 64bit?
+[31 Mar 23:43:30] <skipptekk> or you could have the bot on a laptop?
+[31 Mar 23:43:31] <superdotaplaya> 64 bit
+[31 Mar 23:43:34] <repentgamingtv> @skipptekk He can change ith ere: http://deepbot.tv/dev/donationaccess/#Home
+[31 Mar 23:43:35] <skipptekk> 3
+[31 Mar 23:43:37] <superdotaplaya> im on a laptop
+[31 Mar 23:43:47] <skipptekk> second ocmputer for the win :3
+[31 Mar 23:43:58] <skipptekk> no on no, the Chat name bot
+[31 Mar 23:44:11] <repentgamingtv> o.o
+[31 Mar 23:44:20] <repentgamingtv> The name of the bot that deepbot uses?

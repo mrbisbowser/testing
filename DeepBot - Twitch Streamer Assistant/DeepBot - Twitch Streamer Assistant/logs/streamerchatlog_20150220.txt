@@ -1,0 +1,21 @@
+[20 Feb 20:52:33] <mercury3rd> Config tab>the cog at the right top>8th box should be the host chat thing
+[20 Feb 20:53:56] <somenewbie> Merc I love you. I would kiss you if I could :*
+[20 Feb 20:54:07] <mercury3rd> hehe ;) yw
+[20 Feb 21:05:42] <ladiesoftheroundtable> Arcorman you here?
+[20 Feb 21:05:58] <ladiesoftheroundtable> have a bug wanted to see if there is a quick fix
+[20 Feb 21:06:54] <ladiesoftheroundtable> about to start our live show stream bot keeps spamming  arena any reason why this seems to be an issue?
+[20 Feb 21:09:39] <fabg_rusk> hi
+[20 Feb 21:09:39] <arctomian> arcoman diseased a looong time ago
+[20 Feb 21:09:40] <arctomian> arctomian still lives i think
+[20 Feb 21:09:43] <arctomian> ;)
+[20 Feb 21:09:47] <arctomian> ladiesoftheroundtable :)
+[20 Feb 21:10:04] <ladiesoftheroundtable> Howdy thanks for coming
+[20 Feb 21:10:14] <arctomian> well i never left :D
+[20 Feb 21:10:26] <ladiesoftheroundtable> my bot keeps spitting out arena in chat at random
+[20 Feb 21:10:32] <ladiesoftheroundtable> random spam
+[20 Feb 21:10:40] <ladiesoftheroundtable> is there a bug atm
+[20 Feb 21:10:46] <arctomian> not atm
+[20 Feb 21:10:49] <arctomian> let me get to your channel
+[20 Feb 21:10:56] <ladiesoftheroundtable> i have the feature off and its still going
+[20 Feb 21:10:56] <ladiesoftheroundtable> thanks
+[20 Feb 21:18:09] <repentgamingtv> :o

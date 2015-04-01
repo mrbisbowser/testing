@@ -1,0 +1,96 @@
+[28 Feb 22:58:33] <eventyret> test
+[28 Feb 22:58:38] <eventyret> Eventyret you here ?
+[28 Feb 23:01:00] <repentgamingtv> No
+[28 Feb 23:01:03] <repentgamingtv> I am not D:
+[28 Feb 23:05:11] <itauntmidgets> yo repent
+[28 Feb 23:05:25] <itauntmidgets> u got 2 mil cred in warframe ur willing to spare
+[28 Feb 23:06:00] <clipv> Anyone have time for a question?
+[28 Feb 23:06:33] <itauntmidgets> sure
+[28 Feb 23:06:39] <itauntmidgets> ill help if i can
+[28 Feb 23:06:45] <eventyret> Ask away :)
+[28 Feb 23:06:48] <clipv> Familiar with Nightdev's follower alert?
+[28 Feb 23:07:01] <eventyret> Yeah a bit :)
+[28 Feb 23:07:03] <itauntmidgets> yup
+[28 Feb 23:07:04] <eventyret> why ?
+[28 Feb 23:07:11] <clipv> All right, so looking into a concept.
+[28 Feb 23:07:20] <repentgamingtv> Why do you need that much?
+[28 Feb 23:07:35] <clipv> Certain person joins stream, I can have a notification appear just like when someone follows me.
+[28 Feb 23:07:35] <eventyret> What you mean :)
+[28 Feb 23:07:48] <clipv> So I join your stream, you had it preset that when I join an image pops up.
+[28 Feb 23:07:52] <eventyret> currently im just testing my deepbot and testing some stuff to setup to my new stream :)
+[28 Feb 23:07:56] <clipv> See what I'm saying?
+[28 Feb 23:08:03] <eventyret> Yeah but i aint streaming atm :P
+[28 Feb 23:08:18] <eventyret> And im working on the notifications currently in photoshop :) as you can see im not streaming :)
+[28 Feb 23:08:32] <clipv> I'm asking if that's possible.
+[28 Feb 23:08:37] <eventyret> Yeah it is :)
+[28 Feb 23:08:51] <eventyret> what you using obs or xsplit ?
+[28 Feb 23:08:57] <clipv> OBS.
+[28 Feb 23:09:15] <eventyret> ill send youa PM with a guide and some links that ok ?
+[28 Feb 23:09:23] <clipv> Thank you.
+[28 Feb 23:09:26] <clipv> A PM here?
+[28 Feb 23:09:27] <eventyret> Hang on then :)
+[28 Feb 23:09:34] <eventyret> You get a message on twitch yeah :)
+[28 Feb 23:09:41] <clipv> Yes, thank you.
+[28 Feb 23:09:41] <repentgamingtv> You want an image to pop up when someone joins? o.o
+[28 Feb 23:09:51] <clipv> Yes.
+[28 Feb 23:09:55] <clipv> Only a certain person.
+[28 Feb 23:09:59] <clipv> Not EVERY person.
+[28 Feb 23:10:20] <eventyret> Thats not a follow thing then
+[28 Feb 23:10:24] <eventyret> nightdev uses followers
+[28 Feb 23:10:31] <eventyret> i got deepbot that greets people in chat but not a popup
+[28 Feb 23:10:36] <eventyret> missunderstood you there
+[28 Feb 23:10:40] <clipv> Gotcha.
+[28 Feb 23:10:55] <eventyret> those are donation / subs / follower alert
+[28 Feb 23:10:56] <clipv> I was wondering if that concept is possibly elsewhere, or has someone heard of it?
+[28 Feb 23:11:03] <eventyret> so if you hit the follower button on mine i would get a popup box on it :)
+[28 Feb 23:11:06] <mlcn> for the music do you need to use obs?
+[28 Feb 23:11:14] <eventyret> i use spotify and nowplaying :)
+[28 Feb 23:11:27] <clipv> Yes, and I like Nightdev's alert.
+[28 Feb 23:11:38] <clipv> I was just wondering if there's a Join The Channel Alert possible.
+[28 Feb 23:11:51] <repentgamingtv> There isn't one now. But I believe it was suggested
+[28 Feb 23:12:05] <clipv> Gotcha.
+[28 Feb 23:12:08] <eventyret> For the deepbot ?
+[28 Feb 23:12:10] <clipv> That'd be a nice feature.
+[28 Feb 23:12:16] <eventyret> indeed i agree :)
+[28 Feb 23:15:08] <eventyret> Great installed windows 10 and not installed photoshop yet <.<
+[28 Feb 23:15:18] <repentgamingtv> Eww :/
+[28 Feb 23:15:31] <eventyret> Actully quite like W10 runs smooth so far :)
+[28 Feb 23:15:38] <eventyret> i been using it since first day of dev test so :D
+[28 Feb 23:15:47] <eventyret> fucking hate their new start menu gimmic they changed in latest release :/
+[28 Feb 23:15:53] <repentgamingtv> But why? :/
+[28 Feb 23:15:58] <eventyret> Why what ?
+[28 Feb 23:16:33] <repentgamingtv> It's bound to have problems. :/
+[28 Feb 23:16:57] <eventyret> Naaah runs actully pretty smooth instead of 7 tbh :)
+[28 Feb 23:17:01] <repentgamingtv> Take vista/8, horrible windows :/
+[28 Feb 23:17:06] <eventyret> ermagad
+[28 Feb 23:17:10] <eventyret> don't swear in church xD
+[28 Feb 23:17:14] <eventyret> :P
+[28 Feb 23:19:18] <eventyret> The image for donations for deepbot and css can you change it ? 
+[28 Feb 23:19:35] <eventyret> i know you can change the image but the css you add that straight into xsplit and obs or is it located somwhere ?
+[28 Feb 23:20:06] <hollywoodscotty> Paste the link into browser and view source
+[28 Feb 23:20:10] <hollywoodscotty> find css tags in there
+[28 Feb 23:20:28] <eventyret> What you mean ? :)
+[28 Feb 23:20:28] <hollywoodscotty> and paste tags into clr browser
+[28 Feb 23:20:46] <eventyret> ahhh
+[28 Feb 23:21:23] <eventyret> im using xplit so :)
+[28 Feb 23:21:41] <repentgamingtv> https://support.xsplit.com/forum/viewtopic.php?f=3&t=26589
+[28 Feb 23:22:26] <eventyret> Thank you <3
+[28 Feb 23:22:38] <itauntmidgets> repent u there
+[28 Feb 23:22:52] <repentgamingtv> The only difference is xplist replaces ' with "
+[28 Feb 23:22:55] <repentgamingtv> And ya I am
+[28 Feb 23:23:04] <itauntmidgets> can u do me a favor in warframe haha
+[28 Feb 23:23:14] <repentgamingtv> I asked why you need that much
+[28 Feb 23:23:18] <itauntmidgets> oh
+[28 Feb 23:23:21] <itauntmidgets> for plat
+[28 Feb 23:23:29] <repentgamingtv> How much plat?
+[28 Feb 23:23:33] <itauntmidgets> guy is trading 2.6k plat to me
+[28 Feb 23:23:39] <repentgamingtv> Lol
+[28 Feb 23:23:43] <repentgamingtv> Sounds like a scam
+[28 Feb 23:23:53] <itauntmidgets> how would it be lmao
+[28 Feb 23:23:59] <repentgamingtv> But I will hop on I guess
+[28 Feb 23:24:01] <eventyret> Think im gonna go request a photo in the forums :) but i see what you mean :)
+[28 Feb 23:24:10] <eventyret> Thank you repentgamingtv :D
+[28 Feb 23:24:47] <itauntmidgets>  hes a doll
+[28 Feb 23:25:03] <repentgamingtv> Updating so give it a bit
+[28 Feb 23:26:58] <itauntmidgets> add me on steam
+[28 Feb 23:28:15] <repentgamingtv> added. Only got like 5 mins

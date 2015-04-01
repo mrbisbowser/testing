@@ -1,0 +1,121 @@
+[01 Mar 00:37:29] <agirlyboy_gaming> hello everyone
+[01 Mar 00:39:54] <agirlyboy_gaming> anyone here?
+[01 Mar 00:40:53] <repentgamingtv> ?
+[01 Mar 00:41:39] <agirlyboy_gaming> wassup
+[01 Mar 00:41:45] <agirlyboy_gaming> i never been on this chat b4
+[01 Mar 00:42:19] <repentgamingtv> Nothing, playing a game. :o And you?
+[01 Mar 01:00:03] <agirlyboy_gaming> jus playin cod aw
+[01 Mar 02:41:05] <xbluedreamerx> Can I turn off censored chat?
+[01 Mar 02:42:23] <repentgamingtv> Thru twitch settings, yes.
+[01 Mar 03:41:44] <arctomian> itauntmidgets are ya here?
+[01 Mar 04:08:00] <xirmak> lol thats an awesome name
+[01 Mar 04:08:10] <arctomian> myea
+[01 Mar 04:39:52] <jokerthereal> Hello can anybody help me?
+[01 Mar 04:39:57] <repentgamingtv> ?
+[01 Mar 04:40:54] <jokerthereal> When ppl add song to playlist bot every time says that Song dassda has been added to playlist. Can this actually be turned off? Cause its making hellarious spam in my chat
+[01 Mar 04:42:02] <repentgamingtv> You can't disable it. D;
+[01 Mar 04:42:28] <jokerthereal> Oh sad :(
+[01 Mar 06:44:58] <freespirit87> any of the admins here?
+[01 Mar 06:56:19] <verystyler> Yeah what's up?
+[01 Mar 06:59:54] <fsudarkgamer> hello
+[01 Mar 07:00:40] <fsudarkgamer> is there any way to reduce the amount of hours needed to rank up in the point system?
+[01 Mar 07:13:24] <ciand17> I don't think so
+[01 Mar 07:57:11] <itauntmidgets> anyone good with macros?
+[01 Mar 07:57:25] <arctomian> itauntmidgets i like you to come on teamspeak please
+[01 Mar 07:57:38] <itauntmidgets> uh oh
+[01 Mar 09:03:12] <superdotaplaya> so the owner of the bot said he acivaed vip for me, but i still canno do anything that a VIP can do.
+[01 Mar 09:08:52] <expertsonline>  superdotaplaya please reinstall the bot. I can see the VIP is activated on the server.
+[01 Mar 09:18:26] <itauntmidgets> a command of mine isnt working
+[01 Mar 09:18:30] <itauntmidgets> its !vote
+[01 Mar 09:20:04] <expertsonline>  vote is an internal command - you cant use that
+[01 Mar 09:34:53] <officialfon> Hah!  Streamer Chat this is a brilliant feature.  Live community/dev support IN the app.  Spectacular.
+[01 Mar 09:35:32] <officialfon> I didn't realize I was on the wrong chat tab, went over to my Twitch room to see why you guys all hijacked my channel to discuss bot features :)
+[01 Mar 09:37:07] <expertsonline>  :)
+[01 Mar 09:39:36] <officialfon> As streamers and viewers, does anyone here encourage viewers to watch stream from their personal website rather than Twitch.tv?  Anyone have a functional twitch interface running embedded in a personal website?
+[01 Mar 09:44:36] <verystyler> @officialfon Yeah worked on something like that
+[01 Mar 09:45:19] <officialfon> Ah cool I just wanted to see some examples, is it still online?
+[01 Mar 09:48:18] <verystyler> No sorry not online atm
+[01 Mar 09:48:41] <verystyler> The point is just to bring more than the actual twitch page.
+[01 Mar 09:49:16] <officialfon> Yeah I was curious to see some design implementations, and to see if the embed has as many javascript errors as I'm getting lol
+[01 Mar 09:52:26] <officialfon> Right now I'm looking for royalty free sound effects that are all fantasy themed (monster sounds, swords clashing, magic spells) and just found 8 pages of roughly 80 audio clips of the same crappy "spell" effect.
+[01 Mar 09:57:25] <officialfon> Ugh, if I give up on being able to interact with the chat from my website I can make the interface so much more attractive; I just hate to conceed that point to Twitch.tv! :)
+[01 Mar 09:57:34] <feelmaster> Go to youtube.
+[01 Mar 09:57:53] <officialfon> What's on youtube Feelmaster?
+[01 Mar 09:58:06] <officialfon> ohh for sound effects?
+[01 Mar 09:58:07] <feelmaster> SFX and royalty free music
+[01 Mar 09:58:21] <officialfon> ah yes what a great idea hah, hadn't even dawned on me
+[01 Mar 10:02:32] <feelmaster> In creator studio, there is many free songs and sfx in youtube.
+[01 Mar 10:03:04] <expertsonline>  saw this template on reddit once - not bad for a basic profile page. https://www.youtube.com/watch?v=abUHio_66Wo
+[01 Mar 10:05:25] <officialfon> Oooo thanks Experts I'm gonna watch this now!
+[01 Mar 10:20:13] <ghazzy> The "!songrequest" command only works when im actually live? Trying to test it before going live but nothing happenbs
+[01 Mar 10:20:51] <officialfon> Ah my first live broadcast is April 1st so I haven't even begun testing all the extra goodies
+[01 Mar 10:21:04] <expertsonline>  its !requestsong
+[01 Mar 10:21:24] <officialfon> Hehe feature request, iTunes playlist integration lol.  I am NOT looking forward to remaking my lists in YouTube but such is the industry :)
+[01 Mar 10:22:37] <officialfon> that was a joke btw, I don't want users controlling my itunes :)
+[01 Mar 10:23:03] <ghazzy> ah
+[01 Mar 10:23:06] <ghazzy> thanks guys
+[01 Mar 10:29:09] <reptile_eu> hi guys music player doesnt work
+[01 Mar 10:29:21] <reptile_eu> got any ideas?
+[01 Mar 10:36:31] <ham_carlwinslow> What does it say?  If it's saying something about HTML 5 there's a forum post about it 
+[01 Mar 10:36:38] <ham_carlwinslow> Let me see if I can find the link 
+[01 Mar 10:37:08] <ham_carlwinslow> http://deepbot.deep.sg/forums/index.php?topic=622.0
+[01 Mar 10:37:17] <ham_carlwinslow> there's the forum post check the last post on it 
+[01 Mar 11:03:10] <doktorpeng> is there a command that shows the commandlist sorted by acces level?
+[01 Mar 11:07:09] <siqual_tv> reptile_eu by me is the music player fine 
+[01 Mar 12:31:50] <thoma5tv> Hey quick question. my music isnt working if the viewer puts in a url it dose nothing
+[01 Mar 12:32:24] <thoma5tv> when I add url same thing
+[01 Mar 12:35:14] <craciez> is he using !requestsong?
+[01 Mar 12:36:38] <thoma5tv> yes !requestsong then url
+[01 Mar 12:37:01] <thoma5tv> and the music player does nothing
+[01 Mar 12:37:29] <thoma5tv> no error no nothing just shows the same black screen with the stars or whatever is default
+[01 Mar 13:44:11] <jammer_550> i got that when chrome was my default browser had to switch back to IE being default and it cleared it up
+[01 Mar 13:45:05] <gam3k3y> question?
+[01 Mar 13:45:25] <gam3k3y> I have multihost on but some channels are getting skipped as is they are offline
+[01 Mar 13:45:30] <gam3k3y> what do i do?
+[01 Mar 13:46:22] <repentgamingtv> Do you have randomized on?
+[01 Mar 13:46:40] <gam3k3y> yea
+[01 Mar 13:46:54] <repentgamingtv> Then it will do a random stream, instead of going down the list.
+[01 Mar 13:46:58] <gam3k3y> oh that random time not random list order?
+[01 Mar 13:48:12] <repentgamingtv> I mean as in in will randomly select someone from your list of streams.
+[01 Mar 13:49:21] <gam3k3y> ok the problem im having is some of the live streams last for 1 or 2 mins then areskipped and another stream may get the full 30mins
+[01 Mar 13:55:00] <repentgamingtv> Maybe set the offline time to 5 mins? 
+[01 Mar 13:57:31] <gam3k3y> ok
+[01 Mar 14:06:03] <maskedvilliangaming> @repentgamingtv quick question. if i download another deepbot client for my gf on a second hard drive and close mine she should be able to use it on my pc correct?
+[01 Mar 14:32:26] <gam3k3y> @repentgamingtv i'm still having the issue where its hosting and deciding people are offline idk whats making the bot register hosts as offline when they are streaming
+[01 Mar 18:28:43] <ecoay> i am writing a review on deep bot (thus the reason asking about referral) Is it possible to get a big picture of the deep bot bot
+[01 Mar 18:29:42] <repentgamingtv> o.o Like a banner or someting?
+[01 Mar 18:29:52] <ecoay> no like the bot image
+[01 Mar 18:30:12] <ecoay> I can only find it like 350px high largest ive found
+[01 Mar 18:31:12] <ecoay> too fit the main image size for a review needs to be about 900x900px or it stretches it and looks god awful. found the one from contact page that is over 1k wide but not tall enough
+[01 Mar 18:31:26] <repentgamingtv> Could try this one: http://puu.sh/eDyDx.jpg
+[01 Mar 18:33:00] <ecoay> this one would be nice if it wernt cropped http://deepbot.deep.sg/wp-content/uploads/2014/07/cropped-bot_ban.jpg
+[01 Mar 18:33:10] <ecoay> basically just looking for the full face
+[01 Mar 18:34:03] <ecoay> like the loading sequence image would be perfect is it stored locally?
+[01 Mar 18:55:35] <bigheadgamers> hey every1
+[01 Mar 18:55:42] <repentgamingtv> Hi
+[01 Mar 18:55:49] <bigheadgamers> how r we all
+[01 Mar 18:57:49] <bigheadgamers> is it me or does the follower current not working right as everytime i check it its way more then what twitch says so i correct it and boom its wrong again
+[01 Mar 18:58:21] <bigheadgamers> after the next follow
+[01 Mar 18:58:54] <repentgamingtv> Twitch API most likely.
+[01 Mar 19:00:21] <bigheadgamers> ok is twitch slow
+[01 Mar 19:01:09] <bigheadgamers> cant wait in 11days i be streaming 1month and nearly 2k followers
+[01 Mar 19:02:33] <officialfon> wow nice Big
+[01 Mar 19:03:35] <bigheadgamers> yes i know cant believe it
+[01 Mar 19:04:14] <bigheadgamers> and doing a 2k follower giveaway
+[01 Mar 19:04:49] <bigheadgamers> after that is 5k follower giveaway
+[01 Mar 19:05:15] <angelofgrace_> my VIP expired on March 5, 2015.  How much do i have to donate to deepbot in order to keep all my VIP options priviledge?
+[01 Mar 19:05:31] <bigheadgamers> think over $5
+[01 Mar 19:05:39] <bigheadgamers> its on the website
+[01 Mar 19:06:24] <officialfon> @ecoay http://www.desktopaper.com/wp-content/uploads/awesome-robot-android-head-wire-formula.jpg
+[01 Mar 19:06:40] <repentgamingtv> Ya what bighead said
+[01 Mar 19:07:37] <bigheadgamers> $5 is nothing really
+[01 Mar 19:07:45] <bigheadgamers> for what you get
+[01 Mar 19:08:05] <bigheadgamers> this loyalty bot has helpped me keep viewers
+[01 Mar 19:08:39] <bigheadgamers> gained so many followers $5 is well worth it
+[01 Mar 19:09:11] <bigheadgamers> is there away to add deepbot link to my twitch panel
+[01 Mar 19:09:46] <bigheadgamers> so more streamers can come check it out
+[01 Mar 19:11:30] <angelofgrace_> I agree 5$ is pretty much nothing for all the goodies :) just wanted to make sure how much it was
+[01 Mar 19:11:34] <angelofgrace_> so this is per month?
+[01 Mar 19:11:35] <repentgamingtv> The one I use: http://static-cdn.jtvnw.net/jtv_user_pictures/panel-45104184-image-56397587cf3597cb-320.jpeg
+[01 Mar 19:11:41] <repentgamingtv> Yes.
+[01 Mar 19:14:22] <officialfon> haha my VIP expires on my birthday :)

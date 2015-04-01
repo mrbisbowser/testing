@@ -1,0 +1,147 @@
+[03 Mar 16:25:10] <superdotaplaya> i cannot edit my donation target any ideas?
+[03 Mar 16:25:26] <h3rsh3yb3ar> xD
+[03 Mar 16:25:29] <h3rsh3yb3ar> sucker
+[03 Mar 16:29:31] <xxlexiixx99> super try using twich alerts maybe
+[03 Mar 16:30:54] <superdotaplaya> i got it now but thanks!
+[03 Mar 16:35:45] <xxlexiixx99> how do you give points in chat
+[03 Mar 16:36:04] <xxlexiixx99> i want my mods to be able to distribute points with like a command and idk how they can do that
+[03 Mar 16:40:01] <xirmak> ?? you can set it up so there is a point tick per x amount of minutes 
+[03 Mar 16:40:09] <xirmak> you can also click the button and give out points to all
+[03 Mar 16:41:45] <xxlexiixx99> nvm i got it ty
+[03 Mar 16:53:30] <marshallbyrnz> lexi :3 <3
+[03 Mar 17:05:51] <anarck0s> just resub for VIP again if you can check please
+[03 Mar 17:18:36] <mrpervsan> Does anyone know if you can't change the bankheist text anymore?
+[03 Mar 17:36:24] <dexskittles> how do i fix this?
+[03 Mar 17:36:28] <dexskittles> http://speedcap.net/sharing/screen.php?id=files/4a/7d/4a7d85b8a0caaa253ee1b4c9f94aa575.png
+[03 Mar 17:36:40] <dexskittles> when u type a command somethimes the bot responds with a blank message
+[03 Mar 17:57:53] <nicktanella> is auto hosting not working?
+[03 Mar 18:03:30] <nikki_bruises> Howdy! I would like to change my minimum donation thingy. 
+[03 Mar 18:05:15] <repentgamingtv> @nicktanella This is a  VIP feature
+[03 Mar 18:05:40] <repentgamingtv> @mrpervsan THis is a VIP Feature
+[03 Mar 18:06:06] <mrpervsan> Where to get VIP
+[03 Mar 18:06:08] <repentgamingtv> @xxlexiixx99 !add points viewer
+[03 Mar 18:07:09] <repentgamingtv> @mrpervsan http://deepbot.deep.sg/donate/ VIP is $5 a month, Include your streamer name in the Twitch ID box for automatic VIP. Once you donate, restart the bot for VIP to kick in
+[03 Mar 18:07:14] <nikki_bruises> So I have people donating a penny and i would like it so that the minimun donation is $1.00 
+[03 Mar 18:07:34] <repentgamingtv> @dexskittles, you may not see it in chat, but it should be said.
+[03 Mar 18:08:14] <repentgamingtv> @nikki_bruises You can change that here: http://deepbot.tv/dev/donationaccess/#Home
+[03 Mar 18:08:29] <nikki_bruises> love you repent <3
+[03 Mar 18:09:04] <nikki_bruises> ALSO! this site looks so sick! good job fellas!
+[03 Mar 18:09:43] <repentgamingtv> Ya, it isn't finished, but it does look good. :P
+[03 Mar 18:09:52] <arctomian> aaah
+[03 Mar 18:09:56] <arctomian> i feel lonly now :(
+[03 Mar 18:10:08] <nikki_bruises> wow im so impressed! I love you guys! arctomian you know i love yewww <3
+[03 Mar 18:10:15] <arctomian> <3
+[03 Mar 18:10:29] <nikki_bruises> Now if onlyyyyy we could customize the donation page <3
+[03 Mar 18:10:51] <repentgamingtv> That is also coming in the near future
+[03 Mar 18:10:54] <arctomian> its in the new website
+[03 Mar 18:11:28] <repentgamingtv> Example: http://deepbot.tv/donations/emrerocky
+[03 Mar 18:11:30] <nikki_bruises> sooo dope! I'm so proud of yall :`)
+[03 Mar 18:11:38] <arctomian> :)
+[03 Mar 18:11:44] <nikki_bruises> OMFGGGGG
+[03 Mar 18:11:48] <nikki_bruises> GUYS! THATS SO SEXY!
+[03 Mar 18:12:02] <arctomian> its probaly even gonna have movable animations posibly in it
+[03 Mar 18:12:15] <nikki_bruises> Wow, im so incredibly impressed. wowwwwwww
+[03 Mar 18:12:19] <nikki_bruises> mind = blown
+[03 Mar 18:16:32] <arctomian> COMING IN 2015, minds.....will.be...blown
+[03 Mar 18:16:54] <nikki_bruises> Is there a quick way to update my follower and donation alerts? Like.. I love the plain default one but it would be cool to have my own thing. Do I just submit one online through forums orrrr? ^-^
+[03 Mar 18:17:06] <arctomian> and..words.will come....to...your..scren...faster...in...this....movie...trailer!
+[03 Mar 18:17:08] <nikki_bruises> I've just been so busy I havent had time to post
+[03 Mar 18:17:14] <nikki_bruises> LOLSSSS
+[03 Mar 18:17:32] <nikki_bruises> I'm DEAD (X-X) hhahaha
+[03 Mar 18:17:34] <skipptekk> nikki there is great ones already.
+[03 Mar 18:17:38] <arctomian> :)
+[03 Mar 18:17:50] <nikki_bruises> whereeeeee halp mehhhhh Kappa
+[03 Mar 18:17:53] <skipptekk> but im sure if you submit one and someone will make you one
+[03 Mar 18:17:54] <nikki_bruises> <3
+[03 Mar 18:18:12] <skipptekk> see that Forums tab on the top right? clicky
+[03 Mar 18:18:34] <skipptekk> then scroll down and click on the Custom Notification
+[03 Mar 18:19:13] <nikki_bruises> Is it workshop?
+[03 Mar 18:19:36] <nikki_bruises> thank you Skipp <3
+[03 Mar 18:21:21] <skipptekk> no problem :)
+[03 Mar 18:21:50] <xirmak> haha whoa i click on chat and its a party in here! some damn good stuff too!! 
+[03 Mar 18:23:58] <fhgrundig2005> i had a question regarding deepbot if someone has a moment
+[03 Mar 18:24:09] <fhgrundig2005> have*
+[03 Mar 18:25:18] <xirmak> whatcha got
+[03 Mar 18:26:08] <fhgrundig2005> deepbot is only usuable in the twitch handle that you signed up with correct
+[03 Mar 18:26:52] <xirmak> i believe that is correct
+[03 Mar 18:27:37] <fhgrundig2005> ok i will be streaming from a friends twitch as a guest for a week or so and wanted to bring deepbot with me 
+[03 Mar 18:31:04] <repentgamingtv> Ya, it's account bound.
+[03 Mar 18:32:02] <fhgrundig2005> okie dokie
+[03 Mar 18:35:52] <lynxzyyy> is there a way to have deepbot do his thang in your channel without having the program open or your comp on? i know its probbaly a dumb question, but i value my electricity :P
+[03 Mar 18:36:18] <repentgamingtv> At the moment, no. But I believe with the new dashboard, you will be able to.
+[03 Mar 18:36:54] <lynxzyyy> oh awesome, i suppose we will many more cool things in the future so patience is the key, loving it so far, only had deep for a week now.
+[03 Mar 18:42:48] <officialfon> @repentgamingtv That sample custom donation page, very nice.  Is the plan for preformatted or for user CSS?
+[03 Mar 18:43:22] <repentgamingtv> You will be able to customize, I know you will be able to do the background and sounds like you can do animations as well.
+[03 Mar 18:44:01] <officialfon> very nice thank ya
+[03 Mar 18:50:30] <nikki_bruises> Thanks again guys <3 much love! goodnight!
+[03 Mar 19:01:16] <technicallycat> guys
+[03 Mar 19:04:20] <technicallycat> is it possible to make a command that does !slap *input* ?
+[03 Mar 19:04:23] <technicallycat> I tried @input@
+[03 Mar 19:05:20] <repentgamingtv> Ya? Like  !slap repentgamingtv Message: Bot has slapped repentgamingtv?
+[03 Mar 19:05:45] <technicallycat> yeah
+[03 Mar 19:06:16] <repentgamingtv> Then it is @target@
+[03 Mar 19:06:26] <technicallycat> oh thanks =)
+[03 Mar 19:06:27] <repentgamingtv> http://deepbot.deep.sg/wiki/Custom+Commands&structure=Index&page_ref_id=16
+[03 Mar 20:36:05] <thoma5tv> anyone availible
+[03 Mar 20:36:50] <thoma5tv> multiple people are not reciving the pucks they win from bankheist or just being in the chat? any suggestions
+[03 Mar 20:39:52] <repentgamingtv> Do you have the bankheist win output to something higher then 1.00?
+[03 Mar 20:40:06] <repentgamingtv> They payout multiplier
+[03 Mar 20:40:11] <goblin_warboss> Hey
+[03 Mar 20:40:25] <goblin_warboss> what is the command to show all avalible commands in your twitch chat?
+[03 Mar 20:40:38] <goblin_warboss> is it something like !commands?
+[03 Mar 20:40:40] <repentgamingtv> !cmdlist
+[03 Mar 20:40:47] <goblin_warboss> Thaks buddy
+[03 Mar 20:41:16] <repentgamingtv> Of course you can change it with custom commands
+[03 Mar 20:41:54] <thoma5tv> payment multipler is level 1.57
+[03 Mar 20:42:40] <repentgamingtv> So they get whatever they put in, and only 57% of that amount.
+[03 Mar 20:44:59] <thoma5tv> what numbers do you suggest because that sucks lol
+[03 Mar 20:46:19] <thoma5tv> nevermind I read that wrong thanks for the help brother
+[03 Mar 20:46:24] <repentgamingtv> This is what I use: http://puu.sh/glrNU/d18a74bbf6.png
+[03 Mar 20:52:10] <thoma5tv> dam I cant open it copy and paste wont work in bot for me 
+[03 Mar 20:54:39] <repentgamingtv> Go to your channel
+[03 Mar 20:55:12] <xirmak> is twitch down?
+[03 Mar 20:57:01] <thoma5tv> whats your cool down?
+[03 Mar 20:57:05] <repentgamingtv> No ximak
+[03 Mar 20:57:08] <repentgamingtv> 2 mins
+[03 Mar 20:57:39] <thoma5tv> last one I have people in chat saying there not getting any points when I do the add x amount to all 
+[03 Mar 20:58:02] <thoma5tv> (buttons on top of chat)
+[03 Mar 21:00:43] <repentgamingtv> Well you do !add points all
+[03 Mar 21:02:17] <repentgamingtv> you could *
+[03 Mar 21:04:30] <thoma5tv> yeah
+[03 Mar 21:04:44] <thoma5tv> ill be in my chat waiting for you 
+[03 Mar 21:08:12] <greybush87> to keep VIP we have to donate each month?
+[03 Mar 21:08:39] <thoma5tv> ^^^ yes or you can set a date in the edit user tab
+[03 Mar 21:08:58] <thoma5tv> in the user database tab
+[03 Mar 21:09:42] <thoma5tv> or you can go to the donation notification settings and set the ammount of time you want them to hav evip
+[03 Mar 21:09:42] <greybush87> no i mean for the bots follower and donation tracking like my vip status with the bot for my account
+[03 Mar 21:10:13] <thoma5tv> oh yes you have to donate to deepbot everymonth to keep that vip
+[03 Mar 21:10:20] <thoma5tv> its worth it
+[03 Mar 21:10:26] <thoma5tv> this bot is amaing
+[03 Mar 21:10:28] <greybush87> if i donate again with they automatically see it and update it?.
+[03 Mar 21:10:33] <thoma5tv> and will only get better
+[03 Mar 21:10:52] <thoma5tv> it shoud be updated fast 
+[03 Mar 21:11:58] <greybush87> so i dont have to post anywhere that i donated and ask for my VIP to be reinstated
+[03 Mar 21:12:47] <repentgamingtv> You donate $5 here: http://deepbot.deep.sg/donate/ Put your stream name in the twitch ID box, after you donate, restart deepbot.
+[03 Mar 21:13:24] <greybush87> thanks!
+[03 Mar 21:13:35] <repentgamingtv> Np
+[03 Mar 21:18:05] <thoma5tv> is there a way to keep people from getting points by staying in chat all night long I have one guy that leaves his comp in my chat all night and just collects it not fair to others
+[03 Mar 21:18:37] <repentgamingtv> Yes.
+[03 Mar 21:18:58] <repentgamingtv> Config>Gear (Upper Right Corner)>Point options
+[03 Mar 21:21:51] <thoma5tv> is it the only issue points to people active in chat for x ammout of time?
+[03 Mar 21:22:10] <thoma5tv> if so what do you suggest I set it to 
+[03 Mar 21:22:14] <repentgamingtv> Yes. So if they say something in chat within x mins they will get points
+[03 Mar 21:22:39] <repentgamingtv> What is your offline time/online time point set to?
+[03 Mar 21:23:12] <thoma5tv> online is 5 for every 15 offline is 1 every 25
+[03 Mar 21:25:54] <thoma5tv> what would you suggest? maybe 4-5 min
+[03 Mar 21:28:14] <repentgamingtv> Well its within the last x mins so if you set it to 30, only people who typed in 30 mins would get points 2 times for your online timer
+[03 Mar 21:28:43] <repentgamingtv> So I think 30 would work.
+[03 Mar 21:29:33] <thoma5tv> ok thanks so much for your help man this bot is amazing!!!
+[03 Mar 21:33:06] <e_n_t> is there a list of all the rank for deepbot?
+[03 Mar 21:33:06] <e_n_t> ranks*
+[03 Mar 21:34:51] <repentgamingtv> Yes, one sec
+[03 Mar 21:35:03] <repentgamingtv> http://deepbot.deep.sg/forums/index.php?topic=16.0
+[03 Mar 21:35:07] <e_n_t> cool thanks :D
+[03 Mar 22:12:48] <nerdy_d> hey 
+[03 Mar 22:13:35] <repentgamingtv> hey
+[03 Mar 22:16:20] <nerdy_d> just checking in whats up any cool new things in the works ??
+[03 Mar 22:18:50] <jta182> getting ready to stream

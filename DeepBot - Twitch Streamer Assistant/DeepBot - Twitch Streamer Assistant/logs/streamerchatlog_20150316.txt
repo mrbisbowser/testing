@@ -1,0 +1,143 @@
+[16 Mar 19:19:38] <blaze_it_up420> do you know if expertz figured out a fix for my sound issue yet?
+[16 Mar 19:21:15] <repentgamingtv> Idk :o
+[16 Mar 19:39:41] <mercury3rd> sooo i go to bed... good night guys
+[16 Mar 19:39:47] <repentgamingtv> Night merc
+[16 Mar 19:40:07] <repentgamingtv> Thanks again btw :3
+[16 Mar 19:53:35] <eldirtysquirrel> having trouble with the custom user messages saving, anyone else?
+[16 Mar 19:54:17] <repentgamingtv> What seems to be the problem?
+[16 Mar 19:55:52] <dexskittles> anyone know why i cant add a playlist
+[16 Mar 19:57:02] <repentgamingtv> Any songs longer then 20 mins?
+[16 Mar 19:57:16] <dexskittles> doubt it
+[16 Mar 19:57:19] <dexskittles> i can  checxk
+[16 Mar 19:57:35] <dexskittles> nope
+[16 Mar 20:03:53] <xxgxhxoxsxtxx> i have a Question if anone is aroudn to help 
+[16 Mar 20:04:41] <repentgamingtv> ?
+[16 Mar 20:05:07] <repentgamingtv> @dexskittles maybe a video is deleted on it or can't be embedded into the youtube player
+[16 Mar 20:05:29] <xxgxhxoxsxtxx> i am trying to set up a new Follower and Donation Notification and every time i attepmt to do it it comes up that it crashes 
+[16 Mar 20:05:48] <xxgxhxoxsxtxx> and also adding a new picture for it 
+[16 Mar 20:06:11] <xxgxhxoxsxtxx> like the ones i have seen in the Custom Notification section 
+[16 Mar 20:07:44] <repentgamingtv> Did you install CLR browser and all that?
+[16 Mar 20:08:15] <xxgxhxoxsxtxx> that i no of yes 
+[16 Mar 20:09:46] <xxgxhxoxsxtxx> i might just check to see and run through the youtube setup again just to make sure 
+[16 Mar 20:11:29] <xxgxhxoxsxtxx> @repentgamingtv here is the link of to witch i am seeing http://gyazo.com/8e28d0070620bd39b3728a32f182d774
+[16 Mar 20:14:03] <xxgxhxoxsxtxx> Any Suggestions that i can do to fix this 
+[16 Mar 20:15:58] <xxgxhxoxsxtxx> let me re boot Depp bot and find out if that worked 
+[16 Mar 20:16:33] <repentgamingtv> Pastebin the error log
+[16 Mar 20:31:29] <ttt141> how do I add points to everyone
+[16 Mar 20:31:43] <repentgamingtv> !add x all
+[16 Mar 20:32:34] <ttt141> didnt work
+[16 Mar 20:33:06] <chemicalgaming_> anyway to make the music from the programme play though a different sound device?
+[16 Mar 20:33:23] <repentgamingtv> Try going to chat tab>Cicles at top> ? one
+[16 Mar 20:33:29] <repentgamingtv> Click on hte ? one
+[16 Mar 20:33:46] <repentgamingtv> @chemicalgaming_ currently no.
+[16 Mar 20:34:21] <repentgamingtv> Unless you play the music thru the a web browser. With the deepbot url, you probably could
+[16 Mar 20:35:47] <xxgxhxoxsxtxx> Repent i am going to Post this Picture in the help Support section 
+[16 Mar 20:36:04] <repentgamingtv> Okay ghost
+[16 Mar 20:36:38] <repentgamingtv> For Music, you can load this in your browser : http://deepbot.deep.sg/YouTubePlayerv4.html?ip=[DeepBot Computer IP Here] (Use IPv4 for local hosting computer. Or the computer's external IP for across the internet.)
+[16 Mar 20:36:38] <xxgxhxoxsxtxx> this will give you a better idea of what i see all the time when i attempt to preview and gain a follower 
+[16 Mar 20:37:24] <repentgamingtv> Take a pic of your follower settings too then. I have a feeling it is a setting.
+[16 Mar 20:37:48] <xxgxhxoxsxtxx> no worrys onto it now 
+[16 Mar 20:40:34] <xxgxhxoxsxtxx> Copleted 
+[16 Mar 20:42:05] <freespirit87> is there a way to use commands to open DeepBot Keyword raffle & bets?
+[16 Mar 20:42:38] <repentgamingtv> Yes, go check the wiki: http://deepbot.deep.sg/wiki/Bot+Commands&structure=Index&page_ref_id=6
+[16 Mar 20:43:26] <dexskittles> lol, does anyone wana donate 2 me so i can see if it works lol
+[16 Mar 20:43:44] <blindside_o0> Why don't I see the chat commands popping up?
+[16 Mar 20:43:54] <blindside_o0> all are enabled
+[16 Mar 20:45:15] <dexskittles> did u check ur blindside?
+[16 Mar 20:45:17] <blindside_o0> kinda in a rush but thanks for the humor
+[16 Mar 20:45:29] <dexskittles> what type of comands.
+[16 Mar 20:45:47] <blindside_o0> ones I wrote in like !gt
+[16 Mar 20:45:50] <blindside_o0> !tweet
+[16 Mar 20:46:04] <blindside_o0> they don't pop up in the chat
+[16 Mar 20:46:27] <dexskittles> if the bot or in game?
+[16 Mar 20:46:30] <dexskittles> stream*
+[16 Mar 20:46:33] <dexskittles> srry
+[16 Mar 20:47:08] <blindside_o0> bot is in the stream
+[16 Mar 20:47:48] <blindside_o0> crap I'll brb
+[16 Mar 20:48:08] <dexskittles> ...
+[16 Mar 20:48:42] <blindside_o0> I need to dart to get sodas before
+[16 Mar 20:48:42] <dexskittles> run all the commands individual. rightclick on the command and force it 2 run
+[16 Mar 20:48:43] <repentgamingtv> Give me an example of hte command's message
+[16 Mar 20:48:52] <dexskittles> !tweet
+[16 Mar 20:49:00] <dexskittles> im in here trying them
+[16 Mar 20:49:00] <dexskittles> hes right they dont work
+[16 Mar 20:49:03] <dexskittles> but he should try running it himself
+[16 Mar 20:49:09] <blindside_o0> !schedule - All times are based on Pacific Standard Time * Weekday GTA 6pm - 12am * Saturday Minecraft 6pm-12am * Sunday Shuffle 6pm-12am * Schedule is tentative and I will let you know in twitter of any variations. (Monday's are my day off)
+[16 Mar 20:49:09] <dexskittles> or rebooting bot
+[16 Mar 20:49:25] <xxgxhxoxsxtxx> go to Channel Commands and Enable all 
+[16 Mar 20:49:34] <dexskittles> @blindside_o0 run it by right clicking on it plz
+[16 Mar 20:50:12] <blindside_o0> i just right clicked and execute
+[16 Mar 20:50:17] <dexskittles> tell me when u do so i can see it in chat
+[16 Mar 20:50:24] <dexskittles> it should say "run now"
+[16 Mar 20:50:44] <blindside_o0> hang on lemme reboot the deepbot with admin privledges
+[16 Mar 20:51:03] <dexskittles> probably will do it
+[16 Mar 20:51:14] <blindside_o0> back
+[16 Mar 20:51:29] <blindside_o0> nothing for !gt
+[16 Mar 20:52:02] <dexskittles> try a timed message
+[16 Mar 20:52:28] <gibbywonder95> why cant i start a heist??
+[16 Mar 20:52:44] <dexskittles> not couragoues enought 2 rob a bank?
+[16 Mar 20:52:44] <xxgxhxoxsxtxx> is Deep Bot blindside_o0 sitting in your channel 
+[16 Mar 20:52:51] <dexskittles> and its !bankheist
+[16 Mar 20:52:55] <dexskittles> not !heist
+[16 Mar 20:53:02] <dexskittles> here
+[16 Mar 20:53:08] <dexskittles> um blind, cna u mod me for a sec?
+[16 Mar 20:53:11] <gibbywonder95> i know how to use i, but my viewers can start one but i cant 
+[16 Mar 20:53:13] <dexskittles> in ur stream i wana make a command
+[16 Mar 20:53:14] <blindside_o0> heist is not currently running due to the loyalty points not there yet
+[16 Mar 20:53:33] <blindside_o0> should be now
+[16 Mar 20:53:35] <xxgxhxoxsxtxx> you can set the points system 
+[16 Mar 20:53:39] <dexskittles> !addcmd !test !gt @target@
+[16 Mar 20:53:39] <dexskittles> or do it urself.
+[16 Mar 20:54:28] <repentgamingtv> @gibbywonder95 It's !bankhesit x (x=points you wanna risk)
+[16 Mar 20:54:46] <dexskittles> you're absolutly positive you have the bot in ur channel?
+[16 Mar 20:54:53] <dexskittles> casue i can run that command line on my own stream fine.
+[16 Mar 20:55:11] <blindside_o0> the bot is mechablindy
+[16 Mar 20:55:39] <dexskittles> k coo
+[16 Mar 20:55:40] <gibbywonder95> my viewers can do it but i cant
+[16 Mar 20:55:43] <dexskittles> i like that name :D 
+[16 Mar 20:55:51] <dexskittles> gibby ill help u in a few give me a sec
+[16 Mar 20:56:02] <blindside_o0> BloodTrail
+[16 Mar 20:56:18] <xxgxhxoxsxtxx> @blindside_o0 go to Stream interaction and then mini Games 
+[16 Mar 20:56:25] <xxgxhxoxsxtxx> and then Enable Heist 
+[16 Mar 20:56:34] <xxgxhxoxsxtxx> that will give them the Bank Heist option to play 
+[16 Mar 20:56:58] <xxgxhxoxsxtxx> theres one fix for you 
+[16 Mar 20:56:58] <dexskittles> ok
+[16 Mar 20:56:58] <blindside_o0> ok there you go dex
+[16 Mar 20:56:58] <dexskittles> so it is running
+[16 Mar 20:57:07] <repentgamingtv> @gibbywonder95 You got points to use?
+[16 Mar 20:57:07] <gibbywonder95> yes
+[16 Mar 20:57:09] <dexskittles> it understands the !cmdlist
+[16 Mar 20:57:33] <xxgxhxoxsxtxx> @v have to clicked on the Commands you need to use ? 
+[16 Mar 20:57:34] <blindside_o0> I have it set to 20 second delay as well. would that do it?
+[16 Mar 20:57:44] <dexskittles> shit lol ya probs
+[16 Mar 20:57:55] <dexskittles> u mean the bot is 20s behind? or the actual video is?
+[16 Mar 20:58:22] <repentgamingtv> @gibbywonder95  You running the bot as admin?
+[16 Mar 20:58:31] <blindside_o0> naw not that kind of delay
+[16 Mar 20:58:39] <gibbywonder95> yes
+[16 Mar 20:58:41] <blindside_o0> spam cooldown
+[16 Mar 20:58:43] <dexskittles> idk why, it runs some. 
+[16 Mar 20:58:51] <dexskittles> ok thats why lol
+[16 Mar 20:58:54] <dexskittles> i dont have that on my stream. obthered me lol
+[16 Mar 20:59:07] <dexskittles> well bud, i think ur good
+[16 Mar 20:59:13] <dexskittles> ty for modding me. ima remove that command and then u can unmod me
+[16 Mar 20:59:34] <blindside_o0> but not all commands are working
+[16 Mar 20:59:46] <xxgxhxoxsxtxx> make sure you have them all ticked 
+[16 Mar 21:00:10] <xxgxhxoxsxtxx> if u have them all ticked it will show up 
+[16 Mar 21:00:21] <xxgxhxoxsxtxx> i have them ticked for my stream and they come up 
+[16 Mar 21:00:21] <blindside_o0> all are enabled. do I need the check box too?
+[16 Mar 21:00:44] <xxgxhxoxsxtxx> where your Commands are make sure they are ticked 
+[16 Mar 21:01:12] <blindside_o0> nothing yet
+[16 Mar 21:01:33] <xxgxhxoxsxtxx> @blindside_o0 i'll take a screen shot of what i am seeing for you and place either here or your stream 
+[16 Mar 21:01:52] <dexskittles> ya woudl b good
+[16 Mar 21:01:56] <dexskittles> here is fine i believe
+[16 Mar 21:02:04] <dexskittles> u just cant advertise for ur stream.
+[16 Mar 21:02:07] <dexskittles> bot is coo tho.
+[16 Mar 21:02:22] <xxgxhxoxsxtxx>  http://gyazo.com/3c18d8ebbbecfe89cbbd9b1e0039e341
+[16 Mar 21:02:24] <xxgxhxoxsxtxx> have a look at that 
+[16 Mar 21:03:27] <dexskittles> xxgxhxoxstxx how did u see his bot?
+[16 Mar 21:03:27] <xxgxhxoxsxtxx> found the problem 
+[16 Mar 21:03:47] <xxgxhxoxsxtxx> that pictre is my bot 
+[16 Mar 21:04:08] <blindside_o0> looks the same
+[16 Mar 21:04:18] <dexskittles> ur not running the bot on emore that one pc?
+[16 Mar 21:04:34] <blindside_o0> same pc
+[16 Mar 21:04:38] <xxgxhxoxsxtxx> his got a double youtube link 

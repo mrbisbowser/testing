@@ -1,0 +1,240 @@
+[05 Mar 07:44:00] <twentyonesumthin> good morning everyone! 
+[05 Mar 07:45:19] <arctomian> good morning
+[05 Mar 07:52:45] <mastertay> morning !
+[05 Mar 08:00:54] <itauntmidgets> arcto
+[05 Mar 08:01:11] <itauntmidgets> does doing checkguns when the bot asks to do anything?
+[05 Mar 08:01:20] <itauntmidgets> i see so many people doing !checkguns
+[05 Mar 08:36:32] <franzogames> why when i start !bankheist nothing happens?
+[05 Mar 08:38:07] <itauntmidgets> are u still vip?
+[05 Mar 09:08:07] <arctomian> moment
+[05 Mar 09:08:22] <arctomian> i will be in your channel in a moment franzogames
+[05 Mar 09:09:12] <franzogames> i think i did it man... itaunt helped me... =)
+[05 Mar 09:09:14] <franzogames> arctomian
+[05 Mar 09:09:27] <arctomian> very good :)
+[05 Mar 09:09:45] <franzogames> yap... seems to be cool this bot
+[05 Mar 09:09:45] <arctomian> it works indeed
+[05 Mar 09:09:50] <franzogames> nice work guys =)
+[05 Mar 09:09:57] <arctomian> thanks you. we work hard on it :)
+[05 Mar 09:10:13] <franzogames> i think im the first italian using it
+[05 Mar 09:10:23] <franzogames> if u need a translation, in italian, let me know
+[05 Mar 09:10:50] <arctomian> mnaa we have a couple of itialians :)
+[05 Mar 09:10:56] <franzogames> ouch!
+[05 Mar 09:10:59] <franzogames> :D
+[05 Mar 09:11:07] <franzogames> i wanted to exchange my help for VIP status hahaha
+[05 Mar 10:01:17] <franzogames> guys, arena will stop alone or ive to put a command?
+[05 Mar 10:02:45] <franzogames> arctomian
+[05 Mar 10:03:02] <arctomian> yes sorry
+[05 Mar 10:03:13] <franzogames> yes alone, or yes  a command? :D
+[05 Mar 10:03:16] <arctomian> you can look at the wiki for the command to start a arena
+[05 Mar 10:03:29] <arctomian> its only ussable for mods and streamer
+[05 Mar 10:03:32] <franzogames> oh ok sure... sorry for bothering ur :D
+[05 Mar 10:03:39] <arctomian> forums tab. top of the window you see 3 tabs
+[05 Mar 10:03:50] <franzogames> yap i noticed it :)
+[05 Mar 10:04:02] <arctomian> no problem man, thats what i am here for  :)
+[05 Mar 10:04:41] <franzogames> i started it... but when it will end?
+[05 Mar 10:04:50] <franzogames> i mean, ive to put a command to finish it, or it will end alone?
+[05 Mar 10:04:57] <franzogames> coz my viewers are getting crazy hahaha
+[05 Mar 10:05:08] <arctomian> lol it has 2 min wait time if im correct
+[05 Mar 10:05:44] <franzogames> i still seen it dark in the panel... so it means is still open
+[05 Mar 10:06:08] <arctomian> dark?
+[05 Mar 10:06:20] <franzogames> uhm... blank? I cannot interact with it
+[05 Mar 10:06:34] <arctomian> aaah greyed out then its still running yes
+[05 Mar 10:06:50] <franzogames> ok... when it will end, i started it 5 minutes ago or more, maybe is bugged?
+[05 Mar 10:07:23] <arctomian> hmm it should have ended already
+[05 Mar 10:07:33] <arctomian> are you running deepbot in admin mode?
+[05 Mar 10:08:00] <franzogames> i think... should i close it and rerun it?
+[05 Mar 10:08:25] <franzogames> well.. BRB
+[05 Mar 10:08:55] <arctomian> yup restart deepbot in admin mode
+[05 Mar 10:19:46] <amphetamintv> Heya
+[05 Mar 10:20:27] <amphetamintv> anyone here?
+[05 Mar 10:20:55] <aliceshadowrose> yes 
+[05 Mar 10:21:58] <arctomian> amphetamintv what can i do for you?
+[05 Mar 10:23:24] <amphetamintv> heya The !top command is only for mods 
+[05 Mar 10:23:38] <amphetamintv> can i change ? for Vip-Gold and mods?
+[05 Mar 10:23:40] <amphetamintv> sorry my english is bad
+[05 Mar 10:24:08] <arctomian> no sorry
+[05 Mar 10:24:15] <amphetamintv> okay thanks
+[05 Mar 10:24:49] <arctomian> for the commands list please look here: http://deepbot.deep.sg/wiki/Bot+Commands&structure=Index&page_ref_id=6
+[05 Mar 10:26:35] <amphetamintv> Thanks
+[05 Mar 10:26:44] <arctomian> your welcome :)
+[05 Mar 19:48:57] <kzillatv> Anyway to customize the notification page?  if so where would I be able to change it from the default deepbot screen
+[05 Mar 19:49:13] <repentgamingtv> For OBS?
+[05 Mar 19:49:42] <repentgamingtv> Or the tab?
+[05 Mar 19:49:46] <kzillatv> tab
+[05 Mar 19:49:53] <repentgamingtv> No. D:
+[05 Mar 19:50:31] <kzillatv> ahh ok so its defaulted to http://deepbot.deep.sg/donations/donate.php?s=YOURUSERNAME
+[05 Mar 19:51:05] <repentgamingtv> o.o
+[05 Mar 19:51:17] <repentgamingtv> http://deepbot.deep.sg/donations/donate.php?s=kzillatv ???
+[05 Mar 19:52:15] <repentgamingtv> If you want to customize that page, you will be able in the future. Example: http://deepbot.tv/donations/emrerocky
+[05 Mar 19:52:55] <kzillatv> Nice, so in a future patch?  Hopefully soon :)
+[05 Mar 19:53:22] <repentgamingtv> Well its when the new website will be done
+[05 Mar 19:53:50] <kzillatv> oh, when will that be?  Love what I have been able to figure out so far with Deepbot
+[05 Mar 19:58:14] <repentgamingtv> idk.
+[05 Mar 19:59:01] <akaysotv> question: is it possible to add the comment of the donator to be displayed?
+[05 Mar 20:01:04] <akaysotv> and for some reason the donation target doesn't show the target in the textfile (it just says 0,00 / 0,00) while I do have a target setup in Deepbot
+[05 Mar 20:02:20] <repentgamingtv> Yes.
+[05 Mar 20:02:37] <repentgamingtv> Did you setup the goal in donation notification setting?
+[05 Mar 20:03:36] <repentgamingtv> http://pastebin.com/vMcA5hxz
+[05 Mar 20:05:01] <akaysotv> yeah I have
+[05 Mar 20:05:12] <akaysotv> but I had to create the donation page >>> got stuck
+[05 Mar 20:05:25] <akaysotv> just get a blank popup with the oauth code in the url
+[05 Mar 20:07:10] <akaysotv> what I mean with the comment is: I used an app called FSN and that one included a person's comment in the textfile of the top donator/last donator
+[05 Mar 20:07:15] <repentgamingtv> Run browser incognito if using chrome or private browser on firefox
+[05 Mar 20:07:22] <akaysotv> k sec
+[05 Mar 20:08:57] <akaysotv> k sorted. think it was my privacy badger plugin
+[05 Mar 20:10:04] <rudekaiser87> is there a option to add current son for stream??
+[05 Mar 20:10:15] <rudekaiser87> *song
+[05 Mar 20:10:32] <repentgamingtv> Like on video? It the youtubesong text file 
+[05 Mar 20:11:23] <akaysotv> repentgamingtv - is the donation comment saved to the textfile?
+[05 Mar 20:11:43] <repentgamingtv> Ya
+[05 Mar 20:11:47] <repentgamingtv> Well you have to add it
+[05 Mar 20:11:50] <rudekaiser87> where is this so i can add to the witch vid XD
+[05 Mar 20:11:58] <repentgamingtv> Config>Gear (Upper Right Corner)>Text FIles
+[05 Mar 20:12:16] <nerdy_d> hey i have a problem 
+[05 Mar 20:12:17] <repentgamingtv> DeepBot Folder>OBS
+[05 Mar 20:12:21] <repentgamingtv> Yes?
+[05 Mar 20:12:42] <akaysotv> you talk to me or rude?
+[05 Mar 20:12:55] <rudekaiser87> i dont see a cog XD 
+[05 Mar 20:13:03] <akaysotv> first tab, top right corner rudekaiser
+[05 Mar 20:13:15] <rudekaiser87> and this will work on a pc without deep bot right
+[05 Mar 20:13:16] <repentgamingtv> Next to status online
+[05 Mar 20:13:27] <nerdy_d> i had my vip star tuesday but it is gone now and i have donated to him but what is going on is i changed my twitch username and i think it is not seeing the donation anymore 
+[05 Mar 20:13:53] <repentgamingtv> Wait I am confused @rudekaiser87 Using a bot on another computer and streaming on another?
+[05 Mar 20:14:14] <rudekaiser87> yep
+[05 Mar 20:14:15] <akaysotv> not possible rudekaiser, tried it but u will have problems with OBS forwarding
+[05 Mar 20:14:27] <repentgamingtv> @nerdy_d you are vup right now
+[05 Mar 20:14:32] <rudekaiser87> i use xsplit :P
+[05 Mar 20:14:32] <repentgamingtv> vip*
+[05 Mar 20:14:45] <repentgamingtv> No it won't then. @rudekaiser87.
+[05 Mar 20:14:47] <nerdy_d> well i have donated but it is not showing up 
+[05 Mar 20:14:54] <akaysotv> I use google drive so that I can run the bot when stream offline on the "always-on-pc" and switch when online
+[05 Mar 20:15:06] <repentgamingtv> To do a test donation nerdy_d?
+[05 Mar 20:15:07] <nerdy_d> er
+[05 Mar 20:15:32] <akaysotv> why do u want to run the bot on another system rudekaiser?
+[05 Mar 20:16:09] <akaysotv> repentgaming - I didnt catch ur reply about the donation comment in textfile ^^
+[05 Mar 20:16:12] <nerdy_d> no i dont really use the donate feture i just want to support him but also i want to have  the credit of the donatin ?? but it 's not showing
+[05 Mar 20:16:36] <akaysotv> nerdy_d - using OBS CLR Browser?
+[05 Mar 20:16:41] <rudekaiser87> cause i dont have a 6 monitor mount 
+[05 Mar 20:16:51] <rudekaiser87> and stream pc is behind me
+[05 Mar 20:17:06] <repentgamingtv> Config>Gear (Upper Right Corner)>Text files tab
+[05 Mar 20:17:15] <nerdy_d> no this is not what i am talking about i am talking about my vip star
+[05 Mar 20:17:16] <akaysotv> hmm its not possible, already tried everything to run the bot from another system (VPN and all)
+[05 Mar 20:17:37] <akaysotv> the bot just crashes if u run it over LAN
+[05 Mar 20:17:44] <repentgamingtv> @nerdy_d Running the bot as admin?
+[05 Mar 20:17:56] <nerdy_d> yea
+[05 Mar 20:18:19] <repentgamingtv> Go to about tab And it should tell you, you have vip in left corner
+[05 Mar 20:18:39] <akaysotv> @rudekaiser I'm afraid you have to run it on the streaming pc
+[05 Mar 20:18:55] <repentgamingtv> It only crashes/gives you errors if you have two instances open
+[05 Mar 20:19:03] <nerdy_d> it does but the little gfold star up on top is gfone but its ok if that does not matter
+[05 Mar 20:19:05] <repentgamingtv> You cna run it over LAN
+[05 Mar 20:19:12] <akaysotv> @repent - tried but just crashes
+[05 Mar 20:19:28] <akaysotv> I use a VPN to connect to my always-on-pc so that he can run it from lan
+[05 Mar 20:19:39] <akaysotv> but the bot just crashes during boot
+[05 Mar 20:20:40] <akaysotv> I'm already using cloudstorage to sync DB and files, when stream goes off he just uses RCP to start the bot on the always-on-oc
+[05 Mar 20:20:43] <nerdy_d> so i am good thanks ttyl have a good day looks like you are busy
+[05 Mar 20:20:49] <repentgamingtv> What is the OS? And does it have .net framework 4.0+ installed?
+[05 Mar 20:20:57] <akaysotv> Win7 <> Win8
+[05 Mar 20:21:06] <akaysotv> This pc is win 8.1
+[05 Mar 20:21:11] <akaysotv> my pc is win7
+[05 Mar 20:21:26] <akaysotv> yes it does, probably since it's my console modding pc that requires alot of runtimes for the tools used
+[05 Mar 20:22:02] <akaysotv> and deepbot runs fine when it's started locally from my win7 pc
+[05 Mar 20:23:29] <repentgamingtv> And it crashes when using hte vpn?
+[05 Mar 20:23:33] <akaysotv> yeah
+[05 Mar 20:23:56] <repentgamingtv> Then it is hte VPN
+[05 Mar 20:24:00] <akaysotv> nah
+[05 Mar 20:24:09] <akaysotv> its just a normal PPTP VPN
+[05 Mar 20:24:20] <akaysotv> no software used, just normal windows feature
+[05 Mar 20:24:29] <repentgamingtv> Could be hte port it is using?
+[05 Mar 20:24:45] <akaysotv> maybe, but doubt it
+[05 Mar 20:25:05] <akaysotv> but not really important atm :P
+[05 Mar 20:25:18] <akaysotv> what I do find important is getting the donation comment to textfile for OBS :P
+[05 Mar 20:25:46] <akaysotv> I believe u said it has to be done manually, but that couldve been an answer to someone else
+[05 Mar 20:26:31] <repentgamingtv> Config>Gear>Text File Tab
+[05 Mar 20:26:41] <repentgamingtv> Add @message@
+[05 Mar 20:26:48] <akaysotv> sec
+[05 Mar 20:27:29] <akaysotv> pff so blind, I kept checking and checking and didnt realise the tab was on the right xD
+[05 Mar 20:27:35] <akaysotv> left*
+[05 Mar 20:27:50] <akaysotv> thanks again mate :)
+[05 Mar 20:29:16] <akaysotv> I'll look into that VPN problem, already got rid of all the settings so ima have to set it up again. thanks for your input :)
+[05 Mar 20:29:58] <repentgamingtv> Ya, because somtimes I just teamviewer my stream/main pc with my laptop to do work/support here :P
+[05 Mar 20:32:06] <akaysotv> lol ok :P
+[05 Mar 20:32:09] <kzillatv> anyway to limit the size of a donation message sent?  Issue I am having now is if someone spams a few sentences, my donation popup shows but has the scrolls bars.  Anyway to disable the messages for donations from showing as well?
+[05 Mar 20:33:10] <killcrit> i had a request but now i come to ask, and i forget
+[05 Mar 20:34:00] <akaysotv> really good job on this bot btw
+[05 Mar 20:34:07] <killcrit> oh yeah i remember... is it possible to make a smarter !songrequest parser? not 1 person ever knows to just put the code after c=   so maybe if put whole URL it will read http and know
+[05 Mar 20:34:22] <killcrit> s/c=/v=
+[05 Mar 20:34:26] <repentgamingtv> Just adjust the widith: in the CSS
+[05 Mar 20:34:53] <repentgamingtv> width: 600px !important; <-- Example
+[05 Mar 20:35:42] <repentgamingtv> You mean like !sr =!songrequest?
+[05 Mar 20:35:57] <repentgamingtv> @killcrit
+[05 Mar 20:36:19] <killcrit> no i mean.. !songrequest http://youtube.com?v=29342934
+[05 Mar 20:36:23] <akaysotv> euro sign results in a <?> - is this fixable?
+[05 Mar 20:36:30] <killcrit> curruntely you can only put in 29342934
+[05 Mar 20:36:41] <killcrit> and nobody knows to do that
+[05 Mar 20:37:02] <killcrit> they alwasys do full URL and v=CODE
+[05 Mar 20:37:08] <repentgamingtv> @killcrit for some songs you can. But it's better just use the full link.
+[05 Mar 20:37:42] <killcrit> full link does not work
+[05 Mar 20:39:54] <repentgamingtv> How long is the song?
+[05 Mar 20:40:34] <killcrit> dunno, most urls get "deleted" as entered
+[05 Mar 20:40:38] <killcrit> :D
+[05 Mar 20:41:08] <killcrit> don't matter, adding a v= parser would be smart thing to do :D
+[05 Mar 20:41:11] <repentgamingtv> That would be your chat moderator
+[05 Mar 20:42:48] <akaysotv> @repentgamingtv - euro sign results in a <?> when it's entered in a textfile, is this fixable?
+[05 Mar 20:43:01] <repentgamingtv> Try using hte alt code? :o
+[05 Mar 20:43:11] <akaysotv> &euro; ?
+[05 Mar 20:43:14] <killcrit> if preg_match(/^v=.*$/) { strip v=...
+[05 Mar 20:43:17] <killcrit> simple task
+[05 Mar 20:44:15] <repentgamingtv> Better to suggest it on forums. :P
+[05 Mar 20:45:06] <akaysotv> unicode? :D
+[05 Mar 20:45:44] <akaysotv> &#8364; = euro results in the code being displayed
+[05 Mar 20:45:45] <killcrit> never find me on a forum
+[05 Mar 20:45:48] <killcrit> :D
+[05 Mar 20:45:50] <repentgamingtv> No, you hold alt key then press 0128
+[05 Mar 20:46:00] <akaysotv> yeah tried that too, same result
+[05 Mar 20:46:04] <akaysotv> <?>
+[05 Mar 20:46:09] <repentgamingtv> Oh. Hmm
+[05 Mar 20:46:32] <akaysotv> $ works fine
+[05 Mar 20:50:45] <kzillatv> Beyond the preview button for donation notifications, is there a way to simulate someone donating with a full message without doing it?  
+[05 Mar 20:53:04] <akaysotv> nope
+[05 Mar 20:54:21] <kzillatv> hmm ok
+[05 Mar 20:54:45] <akaysotv> not that I know... :D was looking for it too but couldnt find it, so figured its not possible
+[05 Mar 20:54:51] <repentgamingtv> In obs add ?test=true
+[05 Mar 20:54:51] <repentgamingtv> to url
+[05 Mar 20:54:52] <akaysotv> so it is :)
+[05 Mar 20:54:52] <akaysotv> so I guess the euro sign is not possible then
+[05 Mar 20:54:53] <akaysotv> seems like an OBS problem
+[05 Mar 20:54:53] <repentgamingtv> asked the other team members, so far no responase.
+[05 Mar 20:55:05] <repentgamingtv> The obs thing was the kzillatv
+[05 Mar 20:55:05] <akaysotv> yeah I know :)
+[05 Mar 20:55:11] <djdouge> Hey guys I still cannot request songs in my own stream lol I have everything enabled 10 coins to enter a song and max songs set at 50.  
+[05 Mar 20:58:15] <repentgamingtv> And how many coins do you have?
+[05 Mar 20:58:17] <djdouge> ummm millions for me lol 
+[05 Mar 21:02:02] <clashwithvseven> hey all, anyone know why this isnt loading for me? http://deepbot.tv/dev/donationaccess/#MyAccount
+[05 Mar 21:02:13] <clashwithvseven> i click connect but nothing happens or changes
+[05 Mar 21:02:45] <kzillatv> ahhh, had to stop and restart :), now a question, default messages are hidden on the donor notification, however, I got scrolls balls as if there was a message and it was hidden.  Is it best just to make the scene dimensions large to accomodate for the hidden message?
+[05 Mar 21:02:49] <repentgamingtv> Run your browser in private browser or incognito
+[05 Mar 21:03:04] <clashwithvseven> ok ill give it a shot
+[05 Mar 21:03:09] <repentgamingtv> Adjust the dimensions on the General tab
+[05 Mar 21:03:26] <kzillatv> just make it larger on the general?
+[05 Mar 21:03:47] <repentgamingtv> Ya by like 100 px
+[05 Mar 21:03:47] <clashwithvseven> worked repent. +1, thank you much sir
+[05 Mar 21:04:03] <kzillatv> ok cool, thanks for all the help!  
+[05 Mar 21:04:20] <clashwithvseven> btw saw your vid on Skysaga, and i signed up for access looks fun ;D
+[05 Mar 21:05:25] <repentgamingtv> :3
+[05 Mar 21:08:57] <clashwithvseven> do subscribers get auto VIP? or is that something i need to set up?
+[05 Mar 21:09:45] <repentgamingtv> You aren't partnered, but you can set it up that way
+[05 Mar 21:10:16] <clashwithvseven> I've had a sub button.....
+[05 Mar 21:10:44] <repentgamingtv> Oh just hasn't neen updated then. Well twitch api is slow but ya
+[05 Mar 21:11:25] <clashwithvseven> on whos side? ive had a sub button the last few months
+[05 Mar 21:11:33] <clashwithvseven> am i waiting on deepbot?
+[05 Mar 21:11:45] <repentgamingtv> o.o
+[05 Mar 21:12:05] <akaysotv> `hey repent, im out for now, please let me know tomorrow @ the ? sign
+[05 Mar 21:12:13] <repentgamingtv> Interesting.
+[05 Mar 21:12:21] <clashwithvseven> oh, im not a VIP on deepbot. its greyed out
+[05 Mar 21:12:21] <repentgamingtv> @akaysotv sure
+[05 Mar 21:12:25] <akaysotv> k ty
+[05 Mar 21:12:25] <akaysotv> gn
+[05 Mar 21:12:35] <repentgamingtv> Oh that too
+[05 Mar 21:12:50] <clashwithvseven> oh but thats for follow and sub notifications
+[05 Mar 21:13:13] <clashwithvseven> do i need to be a VIP member to have subs be auto VIPs for deepbot?
+[05 Mar 21:15:53] <repentgamingtv> Yea, because it's under sub notifications

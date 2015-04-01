@@ -1,0 +1,41 @@
+[24 Feb 18:19:38] <phantomik87> @repentgamingtv i have very bad english)) 
+[24 Feb 18:23:31] <mercury3rd> but ithink it's allready requested by someone else
+[24 Feb 18:29:27] <clown_killer79> hey guys i got my stream name chaged but i want to go back to my old one is there any chance u guys can fix this ??? or do i have to wait for the forums guys ?
+[24 Feb 18:31:03] <repentgamingtv> Have you tried messaging experts on forums?
+[24 Feb 18:31:54] <clown_killer79> yes just now man 
+[24 Feb 18:32:20] <repentgamingtv> Only he can update stream names. So it should be done by tomorrow if anything. :3
+[24 Feb 18:32:23] <clown_killer79> not sure if he is on ,,,, i fell bad he just changed it for me now i want to go back :(
+[24 Feb 18:32:37] <clown_killer79> ok
+[24 Feb 18:34:42] <clown_killer79> ALso why is it saying i can use the VIP stuff  ?? like Follow thing and so on ?
+[24 Feb 18:34:55] <repentgamingtv> You aren't VIP
+[24 Feb 18:35:12] <clown_killer79> why am i not VIP ?
+[24 Feb 18:35:25] <repentgamingtv> Ran out? :o
+[24 Feb 18:35:37] <clown_killer79> i payed $10  was it not a one time payment ?
+[24 Feb 18:35:54] <repentgamingtv> $10 gets you the bot and one month of VIP.
+[24 Feb 18:36:02] <repentgamingtv> After that it is $5 a month for VIP
+[24 Feb 18:36:43] <clown_killer79> that ididnt see ok 
+[24 Feb 18:36:46] <clown_killer79> thanx 
+[24 Feb 18:37:18] <ecoay> Is there a way to have a deepbot instance in multiple channels to record points for an entire stream team?
+[24 Feb 18:37:56] <repentgamingtv> No. 
+[24 Feb 18:38:13] <ecoay> ahhh :(
+[24 Feb 18:40:07] <repentgamingtv> I believe someone else was wondering that as well. Not sure if it was feature request tho.
+[24 Feb 19:59:05] <dodge_ballin> this thing eats up a TON of real estate on my alt monitor. Is there any way to make it a little more compact?
+[24 Feb 20:03:29] <repentgamingtv> You mean resize the window? Not really.
+[24 Feb 20:03:50] <dodge_ballin> yeah...thats unforutnate
+[24 Feb 20:04:43] <dodge_ballin> cuz i dont really like the notification system of deepbot(not enough customization options) so im trying to run it, twitchalerts, obs, and my TS3 all kinda on one screen(19")...
+[24 Feb 20:04:45] <repentgamingtv> I mean you sort of can, but it messes up a little bit.
+[24 Feb 20:04:50] <dodge_ballin> eh
+[24 Feb 20:04:58] <dodge_ballin> it messes up enough without my encouragement
+[24 Feb 20:05:11] <repentgamingtv> Ya. The donation system is being redone and all that.
+[24 Feb 20:05:42] <dodge_ballin> yesterday it flat lagged out when i tried to roll a giveaway and i ended up rolling twice cuz i saw nothing but my stream saw the roll.
+[24 Feb 20:06:04] <dodge_ballin> luckily everyone knew i was having issues or it woulda looked really shady
+[24 Feb 20:07:18] <repentgamingtv> Ya. Notice some issues recently with things. But ya
+[24 Feb 20:07:38] <dodge_ballin> ok well thanks for the info
+[24 Feb 20:07:45] <dodge_ballin> gotta get this shit started...already late XD
+[24 Feb 20:11:20] <mercury3rd> when the new alerts are finally here, can we still have different layouts for the scenes. Or will it be one layout for the whole alert?
+[24 Feb 20:15:55] <pr1metimetvx> Is there a way to enable emoticons in deep chat?
+[24 Feb 20:17:58] <repentgamingtv> No? :o
+[24 Feb 20:18:13] <pr1metimetvx> =/
+[24 Feb 20:18:41] <pr1metimetvx> like when people do a twich emoticon on deep chat you can only see the text of it
+[24 Feb 20:21:28] <repentgamingtv> Ya
+[24 Feb 21:00:37] <dexskittles> .
